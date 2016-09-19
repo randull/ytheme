@@ -1,0 +1,9 @@
+/**
+ * Print css file
+ * This file is compiled into print.css.
+ */
+.sidebar {
+  display: none; }
+
+.container {
+  width: 100%; }
